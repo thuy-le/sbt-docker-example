@@ -2,7 +2,11 @@
 
 - Demonstrates how to dockerize a Scala application with sbt-docker and sbt-assembly
 
-## Installation (SBT should already be installed in your machine)
+## Installation 
+
+(If you don't have sbt installed on your machine, please follow this instruction: http://www.scala-sbt.org/release/tutorial/Setup.html)
+
+(If you don't have docker installed on your machine, please follow this instruction: https://docs.docker.com/installation/)
 
 ```sh
 $ sbt docker
