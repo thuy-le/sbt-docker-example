@@ -12,8 +12,16 @@
 $ sbt docker
 ```
 
+- Run root project
+
 ```sh
 $ docker run apiumtech/sbt-docker-example
+```
+
+- Run foo project
+
+```sh
+$ docker run foo/foo
 ```
 
 ## Overview
